@@ -52,8 +52,8 @@ It needs some the enlightenments of the statement from the second point. From th
 
 Based on this Box-Whisker, many predictors consist of outlier data
 
-![plot](![plot](https://github.com/chandna70/Analysis-Model-of-Employee-Performance-With-BoostingTechnique-And-BLSMOTE/blob/main/image/Boxplot%20data.png)
-)
+![plot](https://github.com/chandna70/Analysis-Model-of-Employee-Performance-With-BoostingTechnique-And-BLSMOTE/blob/main/image/Rplot01.png)
+
 
 
 
