@@ -34,7 +34,7 @@ Each of number of training and testing data are 8153 and 3000. There are 21 pred
 |age|Numeric type|annual.leaves|Numeric type|
 |marital_status_maried.Y.N|Binary type|sick_leaves|Numeric type|
 |number_of_dependeces|Numeric type|Last_achievement_.|Numeric type|
-|---|---|Achievemnet_above_100._during3quartal|Numeric type|
+|Achievemnet_above_100._during3quartal|Numeric type|
 
 
 
