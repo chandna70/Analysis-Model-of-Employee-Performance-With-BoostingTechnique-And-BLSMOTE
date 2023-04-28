@@ -40,9 +40,20 @@ Each of number of training and testing data are 8153 and 3000. There are 21 pred
 
 ## 4. Exploration the Data
 From these density plots, here what we got:
-![Screenshoot]([relative%20path/to/img.jpg?raw=true](https://github.com/chandna70/Analysis-Model-of-Employee-Performance-With-BoostingTechnique-And-BLSMOTE/blob/main/image/Distribution%20Density%20of%20Continous%20data.png) "Title")
+![plot](https://github.com/chandna70/Analysis-Model-of-Employee-Performance-With-BoostingTechnique-And-BLSMOTE/blob/main/image/Distribution%20Density%20of%20Continous%20data.png)
 
-job duration in current job level and job duration in current person level are seem like similar distribution.
-GPA, assign of other position, and sick leaves are the most likely to have many zero value data. These variables may have several outlier.
-year graduated and age are seem like they are skewed to the left.
-It needs enlightenment of the statement from the second point.
+- Job duration in current job level and job duration in current person level are seem like similar distribution.
+- GPA, assign of other position, and sick leaves are the most likely to have many zero value data. These variables may have several outlier.
+- Year graduated and Age are seem like they are skewed to the left.
+
+
+It needs some the enlightenments of the statement from the second point. From these distribution, it will be served into Box-Whisker plot
+![plot](https://github.com/chandna70/Analysis-Model-of-Employee-Performance-With-BoostingTechnique-And-BLSMOTE/blob/main/image/Boxplot%20data.png)
+
+Based on this Box-Whisker, many predictors consist of outlier data
+
+![plot](![plot](https://github.com/chandna70/Analysis-Model-of-Employee-Performance-With-BoostingTechnique-And-BLSMOTE/blob/main/image/Boxplot%20data.png)
+)
+
+
+
