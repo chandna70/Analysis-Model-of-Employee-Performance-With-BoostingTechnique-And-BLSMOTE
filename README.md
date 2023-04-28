@@ -40,7 +40,8 @@ Each of number of training and testing data are 8153 and 3000. There are 21 pred
 
 ## 4. Exploration the Data
 From these density plots, here what we got:
-![Image](image/Distribution Density of Continous data.png)
+![Screenshoot]([relative%20path/to/img.jpg?raw=true](https://github.com/chandna70/Analysis-Model-of-Employee-Performance-With-BoostingTechnique-And-BLSMOTE/blob/main/image/Distribution%20Density%20of%20Continous%20data.png) "Title")
+
 job duration in current job level and job duration in current person level are seem like similar distribution.
 GPA, assign of other position, and sick leaves are the most likely to have many zero value data. These variables may have several outlier.
 year graduated and age are seem like they are skewed to the left.
