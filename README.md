@@ -24,25 +24,45 @@ BLSMOTE (Borderline-SMOTE) algorithms attempt to learn the borderline of each cl
 Each of number of training and testing data are 8153 and 3000. There are 21 predictor variables and the rest are predictive variable. Here the list of predictor variables:
 
 job_level : Category type
+
 job_duration_in_current_job_level : Numeric type
+
 person_level : Category type
+
 job_duration_in_current_person_level :Numeric type
+
 job_duration_in_current_branch : Numeric type
+
 Employee_type : Category type
+
 gender : Category type
+
 age : Numeric type
+
 marital_status_maried.Y.N : Binary type
+
 number_of_dependeces : Numeric type
+
 Education_level : Category type
+
 GPA : Numeric type
+
 year_graduated : Numeric type
+
 job_duration_from_training: Numeric type
+
 branch_rotation: Numeric type
+
 job_rotation: Numeric type
+
 assign_of_otherposition: Numeric type
+
 annual.leaves: Numeric type
+
 sick_leaves: Numeric type
+
 Last_achievement_.: Numeric type
+
 Achievemnet_above_100._during3quartal: Numeric type
 
 ## 4. Exploration the Data
