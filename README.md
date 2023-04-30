@@ -136,3 +136,29 @@ From this image, here it is for the intepretation:
 
 From gb_dt model, we can look for the variable important. From variable important, we know how much the predictor variables contribute for the model.
 
+![plot](https://github.com/chandna70/Analysis-Model-of-Employee-Performance-With-BoostingTechnique-And-BLSMOTE/blob/main/image/SHAP%20Value%201.png)
+- There are 12 variables which doesn’t give the contribution for our model
+- At the last variable, job_level_JG05 doesn’t give any contribution for our model
+- The first variable, job_duration_in_current_branch is the most influence for our model. Futhermore for the variabel job_duration_in_current_branch, we take a look the dots. As we can see, that impact on our model are seems like relatively fair high. It means that job_duration_in_current_branch give important role when the data has been indicated low and high value.
+
+Also we can see the percentage of the performance from our model based on the test data. We will only pick 10 predictors.
+
+![plot](https://github.com/chandna70/Analysis-Model-of-Employee-Performance-With-BoostingTechnique-And-BLSMOTE/blob/main/image/dkwakf.png)
+ 
+ ## 9.Conclusion
+Based on above the explanation, the percentage of accuracy our model is 73.47% but the specificity is too low. Also we can see that from 39 predictors which has been processed by engineering feature, there are 10 important variable :
+
+- job_duration_in_current_branch
+- number_of_dependences
+- job_rotation
+- gender_F
+- last_achievement
+- annual_leave
+- education_level_level_3
+- branch_rotation
+- employee_type_RM_type_B
+- job_duration_in_current_job_level
+
+# Reference
+- Mitchell, Tom (1997). Machine Learning. New York: McGraw Hill.
+- Han, H., Wang, W.Y. and Mao, B.H. Borderline-SMOTE: a new over-sampling method in imbalanced data sets learning. In Proceedings of the 2005 international conference on Advances in Intelligent Computing
